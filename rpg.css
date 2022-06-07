@@ -1,0 +1,11 @@
+.object {
+    width: 80px;
+    height: 80px;
+    background-color: rgb(0, 255, 122);
+    margin: 10px;
+    float: left;
+}
+.row {
+    width: 300px;
+}
+               
